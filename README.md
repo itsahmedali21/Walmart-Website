@@ -1,8 +1,8 @@
-## http://127.0.0.1:8000
 
+<a href="http://127.0.0.1:8000">Wbsite Clone <a/>
+<br>
 This is a modern Laravel-based website with a clean and responsive frontend design. It includes basic user authentication functionality.
-
-## 🔐 Features
+ ## 🔐 Features
 User Registration
 
 User Login & Logout
