@@ -1,6 +1,6 @@
-## Laravel E-commerce Prject
+http://127.0.0.1:8000
 
- This is a modern Laravel-based website with a clean and responsive frontend design. It includes basic user authentication functionality.
+This is a modern Laravel-based website with a clean and responsive frontend design. It includes basic user authentication functionality.
 
 ## 🔐 Features
 User Registration
@@ -17,3 +17,4 @@ Fully responsive layout
 Modern and clean UI using Blade templates and CSS (Bootstrap/Tailwind)
 
 Easy-to-navigate structure
+
