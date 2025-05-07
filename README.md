@@ -1,13 +1,19 @@
-# Walmart Website
+ ## Starting Laravel development server: http://127.0.0.1:8000
 
-This is a modern e-commerce website built using the Laravel PHP framework.
+This is a modern Laravel-based website with a clean and responsive frontend design. It includes basic user authentication functionality.
 
-## 🔥 Features
+## 🔐 Features
+User Registration
 
-- User registration and login
-- Product listing and filtering
-- Shopping cart functionality
-- Admin panel to manage products
-- Order checkout system
+User Login & Logout
 
-## 🚀 Installation
+Clean and attractive frontend layout
+
+Built with Laravel authentication scaffolding
+
+## 🎨 Frontend Design
+Fully responsive layout
+
+Modern and clean UI using Blade templates and CSS (Bootstrap/Tailwind)
+
+Easy-to-navigate structure
