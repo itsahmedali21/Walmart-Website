@@ -11,12 +11,12 @@
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
+<link rel="shortcut icon" href="https://i5.walmartimages.com/dfw/63fd9f59-14e2/9d304ce6-96de-4331-b8ec-c5191226d378/v1/spark-icon.svg" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="container-fluid">
+    <div class="container-fluid " style="position: sticky; top: 0; width: 100%; z-index:23; ">
         <div class="row">
             <div class="d-flex align-items-center d-lg-none bg-primary ">
                 <a class="navbar-brand d-lg-none d-flex  offcanvas-ignore" style="margin-top: -9px;" href="">
@@ -154,7 +154,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid ">
         <div class="row">
             <div class="col-md-12 d-flex dropship ">
                 <div class="dropdown down-ship mx-4 mt-2">
@@ -434,7 +434,7 @@
 
         </div>
     </div>
-    <div class="container-fluid mx-lg-3">
+    <div class="container-fluid mx-lg-3 py-5">
         <h5 class="fs-4" style="font-weight: 700;">Fiesta-ready finds</h5>
         <p class="mx-1 mb-5 mb-lg-1" style="font-size: 13px;color: rgb(128, 120, 120);">Food & more for your celebration.
         </p>
