@@ -92,8 +92,7 @@
             <button type="submit">Register</button>
         </div>
     </form> 
-</div>
-
+</div> 
 @if($errors->any()){
  <div class="card-footer text-body-secondary">
     <div class="alert alert-danger">

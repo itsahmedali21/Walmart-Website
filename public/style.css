@@ -510,6 +510,10 @@ img {
     display: none;
   }
 
+  .donald {
+    margin-left: 24px;
+  }
+
   .walmartpostion {
     margin-left: 92px;
   }
@@ -712,6 +716,10 @@ img {
 
   .waste {
     margin-left: -30px;
+  }
+
+  .waste a {
+    display: none;
   }
 
   .celebration h4 {

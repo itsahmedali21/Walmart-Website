@@ -39,7 +39,6 @@
                 aria-labelledby="offcanvasResponsiveLabel">
                 <div class="offcanvas-body">
                     <nav class="navbar navbar-expand-lg bg-primary ">
-                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                         <div class="container-fluid fluiding mx-2">
                             <a class="navbar-brand  offcanvas-ignore d-none d-lg-inline" style="margin-top: -9px;"
                                 href="">
@@ -286,7 +285,8 @@
                     <h4 class="mt-4 pt-2 controvocy  mx-3 position-absolute ">Up to 40% off gifts for mom
                     </h4>
                     <span class="text-decoration-underline  position-absolute"> Shop Now</span>
-                    <img class="secter-999" src="/images/screenshot+1223.jpeg" alt="" ></div>
+                    <img class="secter-999" src="http://127.0.0.1:5500/public/imges/Walmart%20_%20Save%20Money.%20Live%20better._files/k2-_1eabb702-5b37-4f68-8944-52ea777c14b5.v1.jpg" alt="" >
+                </div>
                 <div class=" books mt-lg-3">
                     <h4 class="mt-lg-4 controvocy  mx-3 position-absolute absolute">Must Have Reads</h4>
                     <span class="text-decoration-underline   position-absolute" style="margin-top: 6%;"> Shop Now</span>

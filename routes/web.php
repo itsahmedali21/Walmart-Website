@@ -10,7 +10,7 @@ Route::get('/', function () {
 Route::get('/signup', function () {
     return view('signup');
 })->name('signup');
-
+// / comment /
 
 Route::get('/welcome', function () {
     return view('welcome');
