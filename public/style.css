@@ -396,9 +396,12 @@ img {
     align-items: center;
     justify-content: center;
   }
+  .dta-candle{
+    height: auto;
+  }
 
   .fix_up {
-    margin-left: 12px;
+    margin-left: 32px;
   }
 
   .fix_up .selection {
