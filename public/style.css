@@ -5,8 +5,8 @@
 }
 
 body {
-  font-family: var(--font-family-default, Bogle, "Helvetica Neue", Helvetica, Arial, sans-serif);
   overflow-x: hidden;
+  font-family: var(--font-family-default, Bogle, "Helvetica Neue", Helvetica, Arial, sans-serif);
 }
 
 img {
@@ -346,7 +346,7 @@ img {
 
 .walmart-image {
   width: 24vw;
-  height: 600px;
+  height: auto;
 }
 
 .celebration h4 {
@@ -379,11 +379,59 @@ img {
   max-width: 180px;
 }
 
+@media screen and (max-width: 2428px) and (min-width: 1600px) {
+  .donald {
+    margin-left: 88px;
+    width: 17vw;
+  }
+
+  .sec-000 {
+    margin-left: -18px;
+    width: 14vw;
+    height: auto;
+  }
+
+  .section-class {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .fix_up {
+    margin-left: 12px;
+  }
+
+  .fix_up .selection {
+    width: 37vw;
+  }
+
+  .varcar {
+    margin-left: 45px;
+  }
+
+  .fash_deals {
+    width: 18vw;
+  }
+  .verse-123{
+    width: 28vw;
+  }
+
+  .sectore-214,
+  .secter-124,
+  .secter-129 {
+    width: 22vw;
+  }
+}
+
 @media screen and (max-width: 1428px) {
   .navbar-second-content {
     margin-left: 10px;
     padding-right: 0px;
     font-size: 12px;
+  }
+
+  .varcar {
+    margin-left: 20px;
   }
 
   .custom-input {
@@ -453,6 +501,7 @@ img {
   .fix_up .selection {
     width: 40vw;
   }
+
 
   .warnet img {
     width: 130px;
@@ -685,6 +734,10 @@ img {
 
   .books span {
     display: none;
+  }
+
+  .varcar {
+    margin-left: 10px;
   }
 
   .control {

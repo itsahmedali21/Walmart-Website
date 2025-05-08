@@ -28,6 +28,7 @@
                         placeholder="Find Everything at Walmart Store" aria-label="Search">
                 </div>
             </div>
+                               
             <button class="btn d-flex  align-items-center justify-content-between d-lg-none " type="button"
                 data-bs-toggle="offcanvas" data-bs-target="#offcanvasResponsive" aria-controls="offcanvasResponsive"
                 aria-label="Toggle navigation menu">
@@ -63,6 +64,7 @@
                                             </div>
 
                                         </a>
+                                    </li>
                                         <ul class="dropdown-menu menu bg-primary">
                                             <li class="d-flex justify-content-center">
                                                 <DIV class="mx-3 ">
@@ -254,7 +256,7 @@
                             <h5 class="mt-4 pt-2  mx-md-4 position-absolute ">Up to 40% off Shark
                                 flore care</h5>
                             <span class="text-decoration-underline  position-absolute"> Shop Now</span>
-                            <img class="fash_deals" src="/imges/k2-_ead7a07f-1083-4e8e-8c5c-96b51c3f7981.v1.jpg" alt="">
+                            <img class="fash_deals" src="http://127.0.0.1:5500/public/imges/Walmart%20_%20Save%20Money.%20Live%20better._files/k2-_1eabb702-5b37-4f68-8944-52ea777c14b5.v1.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-2  ml-5">
@@ -297,7 +299,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>  
     <div class="container-fluid mx-lg-3">
         <div>
             <h5 class="fs-4" style="font-weight: 700;">Get Glowing</h5>
@@ -528,7 +530,7 @@
         </div>
     </div>
     <div class="container-fluid celebration mx-lg-3">
-        <div class="row">
+        <div class="row">   
             <div class="col-5 diaster ">
                 <h5 class=" position-absolute mt-4 fw-bold  concret absolute" style="color: #001e60;">Mother's Day may 11</h5>
                 <h1 class=" position-absolute mt-md-5 fw-bolder w-25 concret d-none d-lg-inline " style="color: #001e60;">Gifts For Mom $25
