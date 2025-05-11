@@ -13,6 +13,11 @@ img {
   border-radius: 12px;
 }
 
+.container-fluid {
+  /* max-width: 5000px; */
+  margin: 0 auto;
+}
+
 .navbar {
   width: 100%;
 }
@@ -84,18 +89,16 @@ img {
 }
 
 .custom-input {
-  padding-right: 19rem;
+  /* padding-right: 19rem; */
   padding-top: 12px;
   padding-bottom: 12px;
+  padding-left: 12px;
   border-left: 1px solid red;
   border: none;
   width: 659px;
 }
 
 .custom-input::placeholder {
-  /* font-size: 14px;
-  padding-left: 12px;
-  font-weight: 500; */
   letter-spacing: -0.94px;
   color: #004fad;
 }
@@ -225,7 +228,6 @@ img {
   width: 700px;
 }
 
-
 .warnet img {
   width: 130px;
   margin-left: 89px;
@@ -308,18 +310,24 @@ img {
   margin-left: 15px;
 }
 
+.vently {
+  margin-top: 49px;
+  height: 416px;
+  width: 45vw;
+}
+
 .wently {
   color: #001E60;
   margin-top: 15%;
-  max-width: 399px;
+  max-width: 332px;
   letter-spacing: -1px;
   margin-left: 15px;
-  font-size: 22px;
+  font-size: 31px;
   font-weight: 700;
 }
 
 .wently-12 {
-  margin-top: 41%;
+  margin-top: 30%;
   border-radius: 23px;
   margin-left: 15px;
 }
@@ -379,16 +387,54 @@ img {
   max-width: 180px;
 }
 
-@media screen and (max-width: 2428px) and (min-width: 1600px) {
-  .donald {
-    margin-left: 88px;
-    width: 17vw;
+@media screen and (max-width: 6428px) and (min-width: 3700px) {
+
+  .fash_deals {
+    width: 6vw;
   }
 
-  .sec-000 {
-    margin-left: -18px;
-    width: 14vw;
+  .vently {
     height: auto;
+    width: auto;
+  }
+
+  .dta-candle {
+    height: auto;
+  }
+
+  .centra .col-6 p {
+    font-size: 23px;
+  }
+
+  .volunteer-123 img {
+    height: auto;
+    width: 12vw;
+  }
+
+  .volunteer-123 {
+    width: 39%;
+  }
+
+  .control {
+    margin-top: 5%;
+  }
+
+  .collage-life img {
+    max-width: 100%;
+  }
+
+  .container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+
+  .walmart-image,
+  .verse,
+  .sec-000,
+  .verse-123 {
+    width: auto;
   }
 
   .section-class {
@@ -397,35 +443,185 @@ img {
     justify-content: center;
   }
 
+  .custom-input {
+    width: 70vw;
+    padding-left: 1.5rem;
+    padding-right: 2rem;
+  }
+
+  .septizer {
+    width: 3vw;
+  }
+
+  .collage-life {
+    width: 5vw;
+  }
+
+  .motor {
+    font-size: 18px;
+    max-width: 200px;
+  }
+
+}
+
+@media screen and (min-width: 2500px) and (max-width: 3700px) {
+  .container-fluid {
+    display: flex;
+    flex-wrap: nowrap;
+    /* One line only */
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    max-width: 3700px;
+    margin: 0 auto;
+    overflow-x: auto;
+  }
+
+  .section-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    flex-shrink: 0;
+  }
+
+  .fash_deals {
+    width: 10vw;
+    min-width: 120px;
+    flex-shrink: 0;
+  }
+
   .dta-candle {
     height: auto;
   }
 
-  .fix_up {
-    margin-left: 32px;
+  .centra .col-6 p {
+    font-size: 21px;
+    max-width: 300px;
+    text-align: center;
   }
 
-  .fix_up .selection {
-    width: 37vw;
+  .volunteer-123 {
+    width: 17vw;
+  }
+
+  .volunteer-123 img {
+    width: 20vw;
+    min-width: 180px;
+    max-width: 100%;
+  }
+
+  .collage-life {
+    width: 9vw;
+    min-width: 100px;
+    flex-shrink: 0;
+  }
+
+  .walmart-image,
+  .verse,
+  .sec-000,
+  .verse-123 {
+    width: auto;
+    font-size: 2vw;
+    text-align: center;
+    word-wrap: break-word;
+    flex-shrink: 0;
+  }
+
+  .volunteer-123 .col-4 {
+    width: 8vw;
+  }
+
+  .custom-input {
+    width: 50vw;
+    min-width: 200px;
+    padding-left: 1.5rem;
+    padding-right: 2rem;
+    font-size: 1.1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    flex-shrink: 0;
+  }
+
+  .septizer {
+    width: 6vw;
+  }
+
+  .motor {
+    font-size: 17px;
+    max-width: 200px;
+    text-align: center;
+  }
+
+  .vently {
+    height: auto;
+    width: auto;
+  }
+
+  .varcar {
+    margin-left: 50px;
+  }
+}
+
+@media screen and (min-width:1700px) and (max-width:2500px) {
+  .fash_deals {
+    width: 14vw;
   }
 
   .varcar {
     margin-left: 45px;
   }
 
-  .fash_deals {
-    width: 18vw;
+  .container-fluid {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    max-width: 2500px;
+    margin: 0 auto;
+    overflow-x: auto;
   }
 
-  .verse-123 {
+  .volunteer-123 {
     width: 28vw;
   }
 
-  .sectore-214,
-  .secter-124,
-  .secter-129 {
-    width: 22vw;
+  .volunteer-123 img {
+    width: 25vw;
   }
+
+  .collage-life {
+    width: 12.3vw;
+  }
+
+  .motor {
+    font-size: 13px;
+    max-width: 200px;
+  }
+
+  .vently {
+    height: auto;
+    width: auto;
+  }
+
+  .septizer {
+    width: 8.4vw;
+  }
+
+  .verse,
+  .verse-123,
+  .walmart-image,
+  .sec-000 {
+    width: auto;
+  }
+
+  .custom-input {
+    width: 56vw;
+    padding-left: 12px;
+  }
+
 }
 
 @media screen and (max-width: 1428px) {
@@ -440,7 +636,7 @@ img {
   }
 
   .custom-input {
-    width: 484px;
+    width: 20vw;
   }
 
   .fix_up {
@@ -512,6 +708,12 @@ img {
     width: 130px;
     margin-left: 85px;
     height: 151px;
+  }
+
+  .vently {
+    /* margin-top: 49px; */
+    height: 257px;
+    width: 45vw;
   }
 
   .fix_up .co img {
@@ -662,10 +864,11 @@ img {
     display: none;
   }
 
-  .counter {
-    width: 20vw;
+  .counter,
+  .counter-less {
+    width: 22vw;
     margin-left: 2vw;
-    margin-top: -4%;
+    margin-top: 4%;
   }
 
   .volunteer-123 img {
@@ -689,27 +892,40 @@ img {
 
 @media only screen and (max-width: 767px) {
   .fix_up .selection {
-    width: 54vw;
-    margin-left: 58px;
+    width: 89vw;
     height: 241px;
+    display: block;
+    margin: 12px auto;
+    margin-left: 0;
   }
 
   .secter-124 {
-    width: 42vw;
+    width: 86vw;
+    margin: auto;
     height: auto;
-    margin: 0 auto;
+    display: block;
   }
 
   .via-link {
-    height: 250px;
-    width: 42vw;
-    padding: 0;
-    overflow: hidden;
+    height: 373px;
+    width: 87vw;
+    display: block;
+    /* overflow: hidden; */
+    margin: auto;
+    margin-top: 14px;
   }
 
   .varcar {
     margin-left: 0;
     width: 100%;
+  }
+
+  .toggle {
+    width: 100%;
+    border-radius: 34px;
+    height: 58px;
+    background-color: transparent;
+    padding: 6px 7px;
   }
 
   .controvocy {
@@ -728,16 +944,9 @@ img {
 
   .counter {
     margin-top: -20px;
-    width: 48vw;
-    margin-left: 1rem;
-  }
-
-  .books h5 {
-    font-size: 15px;
-    max-width: 126px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    width: 44vw;
+    margin-left: 1.4rem;
+    margin-top: 0.2rem;
   }
 
   .books span {
@@ -749,12 +958,19 @@ img {
   }
 
   .control {
-    left: 154PX;
-    margin-top: 33%;
+    left: 7PX;
+    margin-top: 38%;
   }
 
   .books h2 {
-    margin-left: 75px;
+    margin-left: 15px;
+    font-size: 1.6rem;
+    max-width: 218px;
+  }
+
+  .books h5 {
+    font-size: 25px;
+    max-width: 228px;
   }
 
   .verse {
@@ -820,38 +1036,47 @@ img {
     margin-top: 21px;
   }
 
-  .decor {
-    margin-left: 31px;
-  }
 
   .secter-129 {
-    width: 41vw;
-    height: 108px;
+    margin: auto;
+    width: 86vw;
+    display: block;
   }
 
   .fash_deals {
-    width: 22vw;
+    width: 44vw;
     height: 214px;
-    MARGIN-LEFT: 13PX;
   }
 
   .donald {
-    margin-left: 60px;
-    width: 28vw;
+
+    width: 39vw;
   }
 
   .congress {
-    width: 97vw;
+    width: 100%;
     position: relative;
-    top: 12px;
-    margin-bottom: 24px;
-    height: 124px;
-    margin-left: -120px;
+    margin: 12px auto 24px auto;
+    padding: 12px;
+    /* background-color: #f8f9fa; */
+    border-radius: 8px;
   }
 
   .congress h1 {
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: 300;
   }
+
+  .img-fluid {
+    width: 300px;
+  }
+
+  .congress img {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+  }
+
 
   .books span {
     margin-top: 15%;
@@ -860,7 +1085,11 @@ img {
   .warnet img {
     height: 123px;
     margin-left: -2px;
-    width: 33vw;
+    width: 53vw;
+  }
+
+  .decor-offset {
+    width: 200px;
   }
 
   .collage-life {
@@ -915,9 +1144,8 @@ img {
   }
 
   .creater {
-    margin-top: -10%;
-    margin-left: 53px;
-
+    margin-top: -16%;
+    margin-left: 22px;
   }
 
   .wently-12 {
@@ -925,16 +1153,21 @@ img {
     margin-top: 90%;
   }
 
+  .vently {
+    margin-top: -22px;
+    width: 49vw;
+    margin-left: -22px;
+  }
+
   .volunteer-123 img {
     height: 270px;
     width: 54vw;
-    margin-top: -25px;
-    margin-left: -35px;
   }
 
   .wently {
     margin-left: -21px;
     margin-top: -2%;
+    font-size: 26px;
     max-width: 179px;
   }
 
