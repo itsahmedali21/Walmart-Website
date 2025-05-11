@@ -512,7 +512,7 @@
                 </div>
             </div>
         </div>  
-    <div class="container-fluid mx-lg-3">
+    <div class="container-fluid mx-lg-3 ">
     <div class="row">
         <div class="col-6 volunteer-123">
             <img src="/imges/Screenshot (106).png" alt="Product Image">
@@ -543,7 +543,7 @@
     </div>
     <h3 style="font-weight: 700;" class=" m-auto text-center mt-4">Flash Deals</h3>
     <p class="m-auto text-center mt-4">Up to 65% off</p>
-    <div class="container-fluid mx-3 py-lg-3">
+    <div class="container-fluid main-wrapper mx-3 py-lg-3">
         <div class="row py-4 d-flex flex-wrap">
             <div class="col-2 collage-life">
                 <img src="data:image/jpeg;base64,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"
@@ -590,7 +590,7 @@
         </div>
     </div>
     <h5 class="text-center mt-4" style="font-weight: 700;">Get it all right here</h5>
- <div class="container-fluid border-top pt-5 mx-lg-3 mx-2">
+ <div class="container-fluid main-wrapper border-top pt-5 mx-lg-3 mx-2">
     <div class="row scrolling-position">
         <div class="col-1 septizer controller-12">
             <img src="https://i5.walmartimages.com/dfw/4ff9c6c9-d59a/k2-_3c62c186-8ec0-4541-9e7c-24efaa163e9f.v1.png?odnHeight=120&odnWidth=120&odnBg=FFFFFF" alt="">
@@ -633,7 +633,7 @@
 <h5 class="fs-4 text-center mt-4" style="font-weight: 700;">Fiesta-ready finds</h5>
 <p class="mx-1 mb-5 mb-lg-1 text-center" style="font-size: 13px;color: rgb(128, 120, 120);">Food & more for your celebration.</p>
 
-<div class="container-fluid mx-lg-3 py-5">
+<div class="container-fluid main-wrapper mx-lg-3 py-5">
     <div class="row">
         <div class="col-6  ml-lg-5">
             <div class="row">
@@ -670,7 +670,7 @@
 
     <h3 class="text-center mt-2" style="font-weight: 700;">Save on toys & games</h3>
     <p class="text-center">Up to 25% off</p>
-    <div class="container-fluid mx-3 py-lg-3">
+    <div class="container-fluid main-wrapper mx-3 py-lg-3">
         <div class="row py-4 d-flex flex-wrap">
             <div class="col-2 collage-life">
                 <img src="https://i5.walmartimages.com/seo/Kids-Tent-Play-Tents-Toddler-Large-Pink-Girls-Princess-Playhouse-Castle-Windows-Clouds-Ball-Lights-Children-Indoor-Outdoor-Games-47-2-L-x-39-4-W-x-51_43b1b751-e09f-4711-a1ce-2f4810c2c1f8.44d6b7aab1ed7fa8d59e732da293566f.jpeg?odnHeight=350&odnWidth=350&odnBg=FFFFFF"
@@ -716,7 +716,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid celebration mx-lg-3">
+    <div class="container-fluid main-wrapper celebration mx-lg-3">
         <div class="row">   
             <div class="col-5 diaster ">
                 <h5 class=" position-absolute mt-4 fw-bold  concret absolute" style="color: #001e60;">Mother's Day may 11</h5>
@@ -770,7 +770,7 @@
     </div>
     <h3 style="font-weight: 700;" class="text-center mt-4"> More For Mom</h3>
     <p class="text-center ">Go on, she definitely deserves it.</p>
-    <div class="container-fluid mx-3 py-lg-3">
+    <div class="container-fluid main-wrapper mx-3 py-lg-3">
         <div class="row py-4 d-flex flex-wrap">
             <div class="col-2 collage-life controller-12">
                 <img src="https://i5.walmartimages.com/asr/2ba7e16b-f571-450c-b20a-d14b3430f1f6.7c80f8d4c47945b1c5db1e7da552e9af.jpeg?odnHeight=350&odnWidth=350&odnBg=FFFFFF"
@@ -817,7 +817,7 @@
         </div>
     </div>
     <h5 style="font-weight: 700;" class="text-center mt-4">Popular in computer parts, printers & accessories</h5>
-    <div class="container-fluid mx-3 py-lg-5 border-top">
+    <div class="container-fluid main-wrapper mx-3 py-lg-5 border-top">
         <div class="row py-4 d-flex flex-wrap">
             <div class="col-2 collage-life controller-12">
                 <img src=" https://i5.walmartimages.com/seo/HP-67XL-High-Yield-Black-Original-Ink-Cartridge-240-Pages-3YM57AN-140_2bf9a0f2-6972-4f8f-82bb-5d5e5db8d1a6.078a187a259ed5050859d50744b099ad.jpeg?odnHeight=350&odnWidth=350&odnBg=FFFFFF"
@@ -866,7 +866,7 @@
     </div>
     <h5 style="font-weight: 700;" class="text-center">From Becky G & Algendra</h5>
     <p class="text-center">A new home collab by Mainstays.</p>
-    <div class="container-fluid mx-3 py-lg-5 border-top">
+    <div class="container-fluid main-wrapper mx-3 py-lg-5 border-top">
         <div class="row py-4 d-flex flex-wrap">
             <div class="col-2 controller-12 collage-life">
                 <img src="https://i5.walmartimages.com/seo/MS-BG-MEL-12PC-GRN_7cd0e32b-bdf5-489b-92d1-33dc584b3919.f5738dfb0e1df3ef27b0ca9efcb7b493.jpeg?odnHeight=350&odnWidth=350&odnBg=FFFFFF"
@@ -913,14 +913,14 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid w-100 pb-3 pt-3 sent">
+    <div class="container-fluid main-wrappper w-100 pb-3 pt-3 sent">
         <div class="row">
             <p class=" text-center  ">We’d love to hear what you think!</p>
             <button class=" mx-auto bg-white py-2 fw-bolder" style="border-radius: 23px; width: 165px;">Give
                 FeedBack</button>
         </div>
     </div>
-    <div class="container-fluid condation">
+    <div class="container-fluid main-wrapper condation">
         <div class="row">
             <ul class="nav justify-content-center py-4 w-75 m-auto">
                 <a href="" class="nav-link text-white">All Departments</a>

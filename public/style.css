@@ -392,7 +392,6 @@ img {
   .fash_deals {
     width: 6vw;
   }
-  
 
   .vently {
     height: auto;
@@ -598,7 +597,9 @@ img {
   .collage-life {
     width: 12.3vw;
   }
-  
+  .waracih,.counter{
+    width: vw;
+  }
 
   .motor {
     font-size: 13px;
