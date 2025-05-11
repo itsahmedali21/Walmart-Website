@@ -503,13 +503,14 @@ img {
   }
 
   .volunteer-123 {
-    width: 17vw;
+    width: 24vw;
   }
 
   .volunteer-123 img {
     width: 20vw;
     min-width: 180px;
     max-width: 100%;
+    margin-left: 50px;
   }
 
   .collage-life {
@@ -589,12 +590,14 @@ img {
   }
 
   .volunteer-123 img {
-    width: 25vw;
+    width: 21vw;
+    margin-left: 78px;
   }
 
   .collage-life {
     width: 12.3vw;
   }
+  
 
   .motor {
     font-size: 13px;

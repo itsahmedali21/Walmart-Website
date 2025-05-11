@@ -23,7 +23,7 @@
 </head>
 
 <body>
-<div class="container-fluid" style="position: sticky; top: 0; width: 100%; z-index: 23;">
+<div class="container-fluid" style=" overflow:hidden; position: sticky; top: 0; width: 100%; z-index: 23;">
   <div class="row">
     <!-- Navbar (Large Screen) -->
     <div class="d-none d-lg-block">
